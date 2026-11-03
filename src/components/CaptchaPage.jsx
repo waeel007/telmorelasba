@@ -360,7 +360,7 @@ function CaptchaPage() {
         />
 
         <ReCAPTCHA
-          sitekey="6Lcaj1AtAAAAABNnijMrcOv0-AHh0daHtNVLLMvi"
+          sitekey="6Lfj23EtAAAAAMPPg0FfH2gRIWGuxxDzr0qXMOmM"
           onChange={handleCaptcha}
           hl={getRecaptchaLang()}
         />
